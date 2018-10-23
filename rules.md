@@ -13,7 +13,7 @@ We will divide work evenly.
 
 
 ## How we will track progress (and follow-up) on completion of tasks
-We will track progress using Git.
+We will track progress using Git. We will also text each other to follow up on the completion of tasks if somebody isn't doing what's assigned to them.
 
 
 ## How we will communicate difficulties with a task assigned to us

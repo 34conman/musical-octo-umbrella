@@ -25,6 +25,9 @@ We will track progress using Git
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+Be accountable for your work.
+Show up on time.
+Bring a laptop to meetings.
+Let members know if you cannot make a meeting.
 
 

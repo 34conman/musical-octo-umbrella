@@ -22,7 +22,7 @@ We will not be scared to confront each other to ask for help or raise concerns a
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+Keep up continuous communication through our group chat making sure that we complete our tasks in a timely manner. We will try our best to make sure everyone's schedules are taken into account for group meetings.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together

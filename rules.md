@@ -9,15 +9,16 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-We will divide work evenly
+We will divide work evenly.
 
 
-## How will we will track progress (and follow-up) on completion of tasks
-We will track progress using Git
+## How we will track progress (and follow-up) on completion of tasks
+We will track progress using Git.
 
 
-## How will will communicate difficulties with a task assigned to us
-
+## How we will communicate difficulties with a task assigned to us
+We will text each other or hold a meeting if we have difficulties with a task assignued to us.
+We will not be scared to confront each other to ask for help or raise concerns about our project, we are a team now.
 
 
 ## How we will back up each other to ensure that deadlines are not missed

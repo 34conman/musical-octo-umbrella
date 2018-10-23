@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-We will divide work evenly.
+We will divide work evenly. If somebody has a conflict and can't complete all of their work we will divide their remaining work evenly again between the other members.
 
 
 ## How we will track progress (and follow-up) on completion of tasks
@@ -26,10 +26,9 @@ Keep up continuous communication through our group chat making sure that we comp
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-Be accountable for your work and to the team.
+Be accountable for your work.
 Show up on time.
 Bring a laptop to meetings.
-Let team members know if you cannot make a meeting.
-Meet deadlines for tasks. If you cannot meet deadlines notify team members.
+Let members know if you cannot make a meeting.
 
 

@@ -26,9 +26,10 @@ Keep up continuous communication through our group chat making sure that we comp
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-Be accountable for your work.
+Be accountable for your work and to the team.
 Show up on time.
 Bring a laptop to meetings.
-Let members know if you cannot make a meeting.
+Let team members know if you cannot make a meeting.
+Meet deadlines for tasks. If you cannot meet deadlines notify team members.
 
 

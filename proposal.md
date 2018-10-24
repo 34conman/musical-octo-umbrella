@@ -30,12 +30,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 ## Problem Description
 
 Briefly describe a problem that your team would like to solve.  
-
-* Our team has decided to solve the problem of roommates not completing their chores. Often times chores go undone in an apartment or house because no one wants to take it upon themselves to clean the kitchen or vaccuum the family room. Or, a roommate will say they will clean something and as the weeks go by, it remains dirty. This is a very prevelant issue inside of the college communities all across the world, and we would like to resolve this once and for all.
-
 Describe at a high level a program that could solve that problem.
-
-
 
 ## Questions to answer for Exercise #2
 
@@ -53,7 +48,6 @@ Describe at a high level a program that could solve that problem.
 * Chores
 * Weights on Chores (i.e., cleaning the bathroom does not hold the same weights as wiping the counter)
 * Date/time expected it to complete
-* Draft system to choose chores (think fantasy football draft but for chores)
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
@@ -65,7 +59,8 @@ Describe at a high level a program that could solve that problem.
 
 
 Name each interface or class and briefly describe its function or purpose.
-
+* Resident Class: inializes each resident with a name and chore rating, which gets updated each week by input from other residents
+* Chores Class: Initializes a chore with a weight and expected time for completion
 
 ## Edit and Submit this file and any figures referenced by this document.
 

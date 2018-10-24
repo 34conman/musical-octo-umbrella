@@ -68,6 +68,7 @@ Describe at a high level a program that could solve that problem.
 Name each interface or class and briefly describe its function or purpose.
 * Resident Class: inializes each resident with a name and chore rating, which gets updated each week by input from other residents
 * Chores Class: Initializes a chore with a name, weight and expected time for completion
+* Notification Interface: Outputs specified message to residents
 
 ## Edit and Submit this file and any figures referenced by this document.
 

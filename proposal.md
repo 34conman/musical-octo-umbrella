@@ -74,7 +74,7 @@ Name each interface or class and briefly describe its function or purpose.
 * Fantasy Football Assignment: Implements Chore Assignment Interface and allows the residents to choose their chores in a fantasy football-like draft
 * Random Assignment: Implements Chore Assignment Interface and randomly assigns chores to the residents
 * Main Class: Instantiates "households" which are the ArrayLists
-* JUnit test Class: Tests program
+* JUnit test Classes: Tests program
 
 ## Edit and Submit this file and any figures referenced by this document.
 

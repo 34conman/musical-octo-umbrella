@@ -51,7 +51,7 @@ Describe at a high level a program that could solve that problem.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-* House members
+* House members (names and amount of house members)
 * Chores
 * Weights on Chores (i.e., cleaning the bathroom does not hold the same weights as wiping the counter)
 * Date/time expected it to complete

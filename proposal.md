@@ -36,7 +36,7 @@ Briefly describe a problem that your team would like to solve.
 Describe at a high level a program that could solve that problem.
 
 * Our program will make explicityly assigning chores to roommates easier, quicker, and more efficient. Each roommate will be able to see their list of chores, each of their roommates' list of chores, and the due date for each of their chores. If one roommate has not completed a chore, you will be able to send a push notification (email) to the roommate to remind them to complete their assigned chore. After somebody completes their chore, they can check off that chore on their list. If the chore was completed unsatisfactorily, the roommates will be able to veto that completion and the person responsible for that chore will have to complete it to a higher standard. After the week ends, everyone's completed chores will be unassigned and another chore draft will commence.
-* Data Structure - We will be implementing this program using a custom made HashTable, created as an ArrayList of LinkedLists. Each node of the linked list will include the name of the chore, the weight of the chore, and the day it needs to be completed by. 
+* Data Structure - 
 
 ## Questions to answer for Exercise #2
 
@@ -70,6 +70,9 @@ Name each interface or class and briefly describe its function or purpose.
 * Resident Class: inializes each resident with a name and chore rating, which gets updated each week by input from other residents
 * Chores Class: Initializes a chore with a name, weight and expected time for completion
 * Notification Interface: Outputs specified message to residents
+* Chore Assignment Interface: Uses algorithmn to assign chores to the residents
+* Fantasy Football Assignment: Implements Chore Assignment Interface and allows the residents to choose their chores in a fantasy football-like draft
+* Random Assignment: Implements Chore Assignment Interface and randomly assigns chores to the residents
 
 ## Edit and Submit this file and any figures referenced by this document.
 

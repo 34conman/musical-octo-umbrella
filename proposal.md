@@ -44,10 +44,10 @@ push notifications
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-House members
-Chores
-Weights on Chores
-Date/time expected it to complete
+* House members
+* Chores
+* Weights on Chores
+* Date/time expected it to complete
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.

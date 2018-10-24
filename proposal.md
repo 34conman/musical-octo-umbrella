@@ -30,6 +30,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 ## Problem Description
 
 Briefly describe a problem that your team would like to solve.  
+
+* Our team has decided to solve the problem of roommates not completing their chores. Often times chores go undone in an apartment or house because no one wants to take it upon themselves to clean the kitchen or vaccuum the family room. Or, a roommate will say they will clean something and as the weeks go by, it remains dirty. This is a very prevelant issue inside of the college communities all across the world, and we would like to resolve this once and for all.
+
 Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2

@@ -46,7 +46,7 @@ push notifications
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 * House members
 * Chores
-* Weights on Chores
+* Weights on Chores (i.e., cleaning the bathroom does not hold the same weights as wiping the counter)
 * Date/time expected it to complete
 
 

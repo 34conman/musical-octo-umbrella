@@ -30,7 +30,12 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 ## Problem Description
 
 Briefly describe a problem that your team would like to solve.  
+
+* Our team has decided to solve the problem of roommates not completing their chores. Often times chores go undone in an apartment or house because no one wants to take it upon themselves to clean the kitchen or vaccuum the family room. Or, a roommate will say they will clean something and as the weeks go by, it remains dirty. This is a very prevelant issue inside of the college communities all across the world, and we would like to resolve this once and for all.
+
 Describe at a high level a program that could solve that problem.
+
+* Our program will make explicityly assigning chores to roommates easier, quicker, and more efficient. Each roommate will be able to see their list of chores, each of their roommates' list of chores, and the due date for each of their chores. If one roommate has not completed a chore, you will be able to send a push notification (email) to the roommate to remind them to complete their assigned chore. After somebody completes their chore, they can check off that chore on their list. If the chore was completed unsatisfactorily, the roommates will be able to veto that completion and the person responsible for that chore will have to complete it to a higher standard. After the week ends, everyone's completed chores will be unassigned and another chore draft will commence.
 
 ## Questions to answer for Exercise #2
 
@@ -41,6 +46,7 @@ Describe at a high level a program that could solve that problem.
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 * List of chores assigned to each person with the date/time expected it to be complete
 * Push notifications
+* Rating of a completed chore job
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
@@ -48,6 +54,7 @@ Describe at a high level a program that could solve that problem.
 * Chores
 * Weights on Chores (i.e., cleaning the bathroom does not hold the same weights as wiping the counter)
 * Date/time expected it to complete
+* Draft system to choose chores (think fantasy football draft but for chores)
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
@@ -59,8 +66,7 @@ Describe at a high level a program that could solve that problem.
 
 
 Name each interface or class and briefly describe its function or purpose.
-* Resident Class: inializes each resident with a name and chore rating, which gets updated each week by input from other residents
-* Chores Class: Initializes a chore with a weight and expected time for completion
+
 
 ## Edit and Submit this file and any figures referenced by this document.
 

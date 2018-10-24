@@ -15,7 +15,7 @@
    * When did you complete this exercise? 
         * Tuesday night, October 23.
    * How long did it take your team to complete this exercise? 
-
+        * 2 Hours
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)

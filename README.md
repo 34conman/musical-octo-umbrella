@@ -7,7 +7,7 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
+       * GitHub username 1:   Marcellopd    name 1: Marcello Porter-Dunning
        * GitHub username 2: pavlakovic      name 2: Nicolas Pavlakovic
        * GitHub username 3: MadeleineRoberts       name 3:Madeleine Roberts
        * GitHub username 4:       name 4:

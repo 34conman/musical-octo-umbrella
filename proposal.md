@@ -35,6 +35,8 @@ Briefly describe a problem that your team would like to solve.
 
 Describe at a high level a program that could solve that problem.
 
+
+
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
@@ -51,6 +53,7 @@ Describe at a high level a program that could solve that problem.
 * Chores
 * Weights on Chores (i.e., cleaning the bathroom does not hold the same weights as wiping the counter)
 * Date/time expected it to complete
+* Draft system to choose chores (think fantasy football draft but for chores)
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.

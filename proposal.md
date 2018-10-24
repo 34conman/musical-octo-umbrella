@@ -36,7 +36,7 @@ Briefly describe a problem that your team would like to solve.
 Describe at a high level a program that could solve that problem.
 
 * Our program will make explicityly assigning chores to roommates easier, quicker, and more efficient. Each roommate will be able to see their list of chores, each of their roommates' list of chores, and the due date for each of their chores. If one roommate has not completed a chore, you will be able to send a push notification (email) to the roommate to remind them to complete their assigned chore. After somebody completes their chore, they can check off that chore on their list. If the chore was completed unsatisfactorily, the roommates will be able to veto that completion and the person responsible for that chore will have to complete it to a higher standard. After the week ends, everyone's completed chores will be unassigned and another chore draft will commence.
-* Data Structure - ArrayList of arraylists: Outside arraylist indices are residents, which are comprised of an arraylist of chores assigned to that person.
+* Data Structure - 
 
 ## Questions to answer for Exercise #2
 
@@ -59,7 +59,7 @@ Describe at a high level a program that could solve that problem.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+![ChoreAssignerDiagram](https://github.com/34conman/musical-octo-umbrella/blob/master/ChoreAssignerDiagram.jpg?raw=true)
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
@@ -73,6 +73,8 @@ Name each interface or class and briefly describe its function or purpose.
 * Chore Assignment Interface: Uses algorithmn to assign chores to the residents
 * Fantasy Football Assignment: Implements Chore Assignment Interface and allows the residents to choose their chores in a fantasy football-like draft
 * Random Assignment: Implements Chore Assignment Interface and randomly assigns chores to the residents
+* Main Class: Instantiates "households" which are the ArrayLists
+* JUnit test Class: Tests program
 
 ## Edit and Submit this file and any figures referenced by this document.
 

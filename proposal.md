@@ -70,7 +70,7 @@ Name each interface or class and briefly describe its function or purpose.
 * Resident Class: inializes each resident with a name and chore rating, which gets updated each week by input from other residents
 * Chores Class: Initializes a chore with a name, weight and expected time for completion
 * Notification Interface: Outputs specified message to residents
-* Chore Assignment Interface: Uses algorithmn to assign chores to the residents
+* Chore Assignment Interface: Uses an algorithm to assign chores to the residents
 * Fantasy Football Assignment: Implements Chore Assignment Interface and allows the residents to choose their chores in a fantasy football-like draft
 * Random Assignment: Implements Chore Assignment Interface and randomly assigns chores to the residents
 * Main Class: Instantiates "households" which are the ArrayLists
